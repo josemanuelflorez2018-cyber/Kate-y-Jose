@@ -1,4 +1,4 @@
-' Hola.vbs - doble click para que la computadora hable
+' Hola.vbs - doble click para que la computadora  hable
 Option Explicit
 
 Dim texto, voz, vozLista, i
